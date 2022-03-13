@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoram7
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently learning Front-End Developer
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me yoramestomihiarijaya@gmail.com
 
